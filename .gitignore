@@ -1,0 +1,11 @@
+# Python ortamı
+.venv/
+__pycache__/
+*.pyc
+
+# Çalıştırma çıktıları (her çalıştırmada yeniden oluşur)
+results/
+cache/
+*.log
+offline_table.txt
+run_100.start
